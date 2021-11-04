@@ -18,7 +18,7 @@ First clone the project on your local system
 
 ```bash
 
-    $ git clone TK
+    $ git clone https://github.com/muteenk/Rest-API-in-Node.git
 
 ```
 
